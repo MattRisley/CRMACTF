@@ -1,6 +1,6 @@
 ## CRMA 2020 Sleeping Beauty Writeup
 
-A twist to a hill cipher with a special encoding
+A simple hill cipher.
 
 ## Challenge
  
