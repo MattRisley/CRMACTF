@@ -49,7 +49,7 @@ Following a Hill Cipher approah we multiply the decrpted message by the inverse 
 15 11 22        2	 7	9       19  12   5
 19  7 18   *    25	11	8  -->   5  16  25
 11 21 15        0	8	9        1  12  12
- 3  2 24                         4   1  25
+ 3  2 24                            4   1  25
 ```
 
 
